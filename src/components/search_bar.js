@@ -15,7 +15,7 @@ class SearchBar extends Component {
         
         this.setState({term});
         this.props.onSearchTermChange(term)
-        this.props.onSearchTermChange(term)
+        
         
     }
 
